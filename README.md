@@ -10,7 +10,7 @@ A Calculadora de IMC permite que os usuários insiram seus dados de altura e pes
 
 - Entrada de dados de altura e peso.
 - Cálculo do IMC baseado nos dados fornecidos.
-- Exibição do resultado do IMC com a classificação correspondente (por exemplo, abaixo do peso, peso normal, sobrepeso, etc.).
+- Exibição do resultado do IMC.
 
 ## Tecnologias Utilizadas
 
@@ -18,8 +18,6 @@ A Calculadora de IMC permite que os usuários insiram seus dados de altura e pes
 - CSS
 - JavaScript
 
-## Como Utilizar
+## Link
 
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/igorferreira007/calculadora-imc.git
+Projeto publicado em: https://igorferreira007.github.io/BMI-Calculator/
